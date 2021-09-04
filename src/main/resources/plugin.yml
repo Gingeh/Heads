@@ -1,0 +1,4 @@
+name: Heads
+version: ${project.version}
+main: io.github.gingeh.heads.Heads
+api-version: 1.17
